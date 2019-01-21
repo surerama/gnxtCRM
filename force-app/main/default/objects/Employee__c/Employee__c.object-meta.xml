@@ -51,13 +51,13 @@
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>Fruit</label>
+    <label>Employee</label>
     <nameField>
-        <displayFormat>F-{0000}</displayFormat>
-        <label>Fruit ID</label>
+        <displayFormat>E-{00000}</displayFormat>
+        <label>EmployeeID</label>
         <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>Fruits</pluralLabel>
+    <pluralLabel>Employees</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

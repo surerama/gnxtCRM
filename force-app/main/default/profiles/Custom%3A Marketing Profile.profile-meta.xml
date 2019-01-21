@@ -8,19 +8,24 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Fruit__c.Country__c</field>
+        <field>Employee__c.Designation__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Fruit__c.Fruit_Name__c</field>
+        <field>Employee__c.First_Name__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Employee__c.Last_Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
-        <layout>Fruit__c-Fruit Layout</layout>
+        <layout>Employee__c-Employee Layout</layout>
     </layoutAssignments>
     <tabVisibilities>
-        <tab>Fruit__c</tab>
+        <tab>Employee__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>

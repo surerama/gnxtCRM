@@ -10,7 +10,7 @@
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <label>gNxtCRM</label>
     <navType>Standard</navType>
-    <tabs>Fruit__c</tabs>
+    <tabs>Employee__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>gNxtCRM_UtilityBar</utilityBar>
 </CustomApplication>
