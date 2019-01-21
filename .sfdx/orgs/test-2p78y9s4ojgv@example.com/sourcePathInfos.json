@@ -1,0 +1,348 @@
+[
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548049782619,
+            "changeTime": 1548049782619,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548049782619,
+            "changeTime": 1548049782619,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548054650487,
+            "changeTime": 1548054650487,
+            "contentHash": "5d01f3b640c9658c0be9fcc395da6b802cf0cc2c"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548049782619,
+            "changeTime": 1548049782619,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM",
+        {
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548051037993,
+            "changeTime": 1548051037993,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2058,
+            "modifiedTime": 1548054650440,
+            "changeTime": 1548054650440,
+            "contentHash": "2788d8378a4fc404c16848773a689b6ec746293f"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Country__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Country__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 360,
+            "modifiedTime": 1548054650440,
+            "changeTime": 1548054650440,
+            "contentHash": "8f3d30a94f607cdca19fc6e305e4152720235194"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Fruit_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Fruit_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1548054650440,
+            "changeTime": 1548054650440,
+            "contentHash": "e39b5168ee6b758cc8ea0f1b9a9790b32d914b99"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1548054650440,
+            "changeTime": 1548054650440,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2224,
+            "modifiedTime": 1548054650456,
+            "changeTime": 1548054650456,
+            "contentHash": "c24165b564a5f4a2cd98abafeac67395e3f007e1"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\flexipages\\gNxtCRM_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\flexipages\\gNxtCRM_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 502,
+            "modifiedTime": 1548054650456,
+            "changeTime": 1548054650456,
+            "contentHash": "8c8d0903c15c3faeda00b019c07a7b5d98cd90ae"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1548054650472,
+            "changeTime": 1548054650472,
+            "contentHash": "e6d3ceb7c99eb8a50672ce743ff76440c6fcc5a6"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\applications\\Suresh.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\applications\\Suresh.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 649,
+            "modifiedTime": 1548054650472,
+            "changeTime": 1548054650472,
+            "contentHash": "90eadba51f05390b2b76c743acda34b25514de0a"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5359,
+            "modifiedTime": 1548054650487,
+            "changeTime": 1548054650487,
+            "contentHash": "569229c0dd7462f3403b35cc33bad91396cfbfd0"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18887,
+            "modifiedTime": 1548054650519,
+            "changeTime": 1548054650519,
+            "contentHash": "f030a4b56657b87b81bc704272d48fe51136353a"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5021,
+            "modifiedTime": 1548054650534,
+            "changeTime": 1548054650534,
+            "contentHash": "030a17f23789f5cd9882f8de56b3215f9fe288da"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5021,
+            "modifiedTime": 1548054650534,
+            "changeTime": 1548054650534,
+            "contentHash": "030a17f23789f5cd9882f8de56b3215f9fe288da"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\objects\\Fruit__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\objects\\Fruit__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548054650440,
+            "changeTime": 1548054650440,
+            "contentHash": "66af05d6e617d214f0fb9dd09c7893dc89604a8e"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548054650440,
+            "changeTime": 1548054650440,
+            "contentHash": "e5e02b5b544b75f660aa97a44c1a361d5fd2112c"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\objects\\Fruit__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\objects\\Fruit__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548054650440,
+            "changeTime": 1548054650440,
+            "contentHash": "b2e2f7b67d9d9fc60c14d64f8a468f53c24a9e26"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548054650440,
+            "changeTime": 1548054650440,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548054650456,
+            "changeTime": 1548054650456,
+            "contentHash": "34c6cd682ae6f398dd3c7d51a0f2e623bbdc23ef"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548054650456,
+            "changeTime": 1548054650456,
+            "contentHash": "894899c154d2a29c20fa1f0b6b4ec58f9d29be5e"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548054650472,
+            "changeTime": 1548054650472,
+            "contentHash": "60eec67ed4d8184a3c0378106174081de1f1eb35"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548054650472,
+            "changeTime": 1548054650472,
+            "contentHash": "2e7da940146bb1f36e9f84d02a40d5a7df90452b"
+        }
+    ],
+    [
+        "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Suresh\\Personal\\SalesForce\\gNxtCRM\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548054650534,
+            "changeTime": 1548054650534,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
